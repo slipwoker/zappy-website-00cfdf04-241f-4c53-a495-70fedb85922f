@@ -5,9 +5,9 @@
 /contact  /contact.html  200
 /services  /services.html  200
 /blog  /blog.html  200
-/blog/yoga-spinning-parents  /blog-yoga-spinning-parents.html  200
-/blog/busy-schedule-fitness  /blog-busy-schedule-fitness.html  200
-/blog/fitness-routine-tips  /blog-fitness-routine-tips.html  200
+/blog/yoga-spinning-parents  /blog/yoga-spinning-parents.html  200
+/blog/busy-professionals  /blog/busy-professionals.html  200
+/blog/spinning-addiction  /blog/spinning-addiction.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
