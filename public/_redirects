@@ -4,10 +4,17 @@
 /about  /about.html  200
 /contact  /contact.html  200
 /services  /services.html  200
-/magazine  /magazine.html  200
-/magazine/yoga-spinning-parents  /magazine/yoga-spinning-parents.html  200
-/magazine/spinning-yoga-busy  /magazine/spinning-yoga-busy.html  200
-/magazine/us-spinning-trends  /magazine/us-spinning-trends.html  200
+/blog  /blog.html  200
+/blog/yoga-spinning-parents  /blog-yoga-spinning-parents.html  200
+/blog/spinning-yoga-busy  /blog-spinning-yoga-busy.html  200
+/blog/spinning-trends-usa  /blog-spinning-trends-usa.html  200
+/blog/spinning-yoga-benefits  /blog-spinning-yoga-benefits.html  200
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
 /  /index.html  200
 
 # 404 fallback
