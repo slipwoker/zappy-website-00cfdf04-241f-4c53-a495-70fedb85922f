@@ -7,8 +7,8 @@
 /blog  /blog.html  200
 /blog/parents-yoga-spinning  /blog/parents-yoga-spinning.html  200
 /blog/busy-people-fitness  /blog/busy-people-fitness.html  200
-/blog/nutrition-tips  /blog/nutrition-tips.html  200
-/blog/spinning-yoga-combo  /blog/spinning-yoga-combo.html  200
+/blog/perfect-combination  /blog/perfect-combination.html  200
+/blog/beginners-guide  /blog/beginners-guide.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
