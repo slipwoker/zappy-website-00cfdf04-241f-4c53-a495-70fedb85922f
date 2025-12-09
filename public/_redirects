@@ -5,10 +5,10 @@
 /contact  /contact.html  200
 /services  /services.html  200
 /blog  /blog.html  200
-/blog/yoga-spinning-parents  /blog/yoga-spinning-parents.html  200
-/blog/busy-professionals  /blog/busy-professionals.html  200
-/blog/spinning-addiction  /blog/spinning-addiction.html  200
-/blog/benefits-yoga-spinning  /blog/benefits-yoga-spinning.html  200
+/blog/parents-yoga-spinning  /blog/parents-yoga-spinning.html  200
+/blog/busy-people-fitness  /blog/busy-people-fitness.html  200
+/blog/nutrition-tips  /blog/nutrition-tips.html  200
+/blog/beginners-guide  /blog/beginners-guide.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
